@@ -1,6 +1,6 @@
 # Propy-NFT-Lending
 
-Propy NFT lending contracts as requested in by this [bounty](https://www.bountycaster.xyz/bounty/0x64484c7258b37a7736e030fc693bf89f720d7743). 
+Propy NFT lending contracts as requested by this [bounty](https://www.bountycaster.xyz/bounty/0x64484c7258b37a7736e030fc693bf89f720d7743). 
 
 Built using [Foundry](https://book.getfoundry.sh/).
 

@@ -18,6 +18,7 @@ contract Deploy is Script {
         IERC20 USDC = IERC20(0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913);
 
         PropyNFTLoanFactory factory = new PropyNFTLoanFactory(propyClaimAddress, USDC);
+        factory;
         /// @dev Consider creating a loan here so that both contracts can be verified on deployment.
         
         vm.stopBroadcast();
