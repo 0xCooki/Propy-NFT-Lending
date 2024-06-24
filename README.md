@@ -4,6 +4,17 @@ Propy NFT lending contracts as requested by this [bounty](https://www.bountycast
 
 Built using [Foundry](https://book.getfoundry.sh/).
 
+### Design
+
+The loan factory can be used to create mutliple loans, each with their own NFT collateral and loan conditions, as detailed below:
+
+![Overview](./assets/overviewV0.jpg)
+
+The user flow for a loan:
+
+![Flow](./assets/flowV0.jpg)
+
+
 ### Installation
 
 - Clone the repo.
